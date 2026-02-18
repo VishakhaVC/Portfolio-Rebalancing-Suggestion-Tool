@@ -48,5 +48,11 @@ The system uses Pandas to process portfolio data (from CSV), compute asset weigh
   - Interactive visualization dashboard
   - RAG-based financial knowledge integration
   - Fully autonomous multi-step agent with memory and feedback loops
+  - Output Agent – Presents recommendations to the user
 
-Output Agent – Presents recommendations to the user 
+# How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+2. Add your OpenAI API key in app.py
+3. Run:
+   python app.py
