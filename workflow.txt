@@ -1,0 +1,15 @@
+user uploads csv data
+	|
+analysis of data (summary & chart)
+	|
+identifies underweight & overweight assets
+	|
+calculates allocation drift (how current differs from targeted value)
+	|
+summary for rebalancing suggestion
+	|
+analysis of rebalancing recommendation data
+	|
+suggests why rebalancing is required
+	|
+final output- what is rebalancing, its overview about stock data and what is happening when certain stocks are overweight or underweight and what steps should be taken using llm

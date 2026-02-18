@@ -1,0 +1,5 @@
+Asset,Asset_Class,Current_Value,Target_Allocation
+TCS,Equity,120000,0.40
+HDFC,Equity,80000,0.30
+Gold ETF,Commodity,50000,0.20
+Liquid Fund,Debt,30000,0.10

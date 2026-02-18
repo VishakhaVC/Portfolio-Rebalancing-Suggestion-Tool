@@ -1,0 +1,5 @@
+1. Rebalance if asset allocation deviates more than ±5% from target.
+2. Reduce exposure to overweight assets.
+3. Increase allocation to underweight assets.
+4. Conservative portfolios prioritize stability over high returns.
+5. Diversification reduces portfolio risk.

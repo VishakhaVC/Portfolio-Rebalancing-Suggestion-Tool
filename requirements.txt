@@ -1,0 +1,6 @@
+pandas
+streamlit
+matplotlib
+openai
+crewai
+langchain-openai

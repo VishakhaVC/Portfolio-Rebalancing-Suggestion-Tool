@@ -1,0 +1,26 @@
+Asset,Asset_Class,Current_Value,Target_Allocation
+TCS,Equity,120000,0.40
+HDFC,Equity,80000,0.30
+Gold ETF,Commodity,50000,0.20
+Liquid Fund,Debt,30000,0.10
+Infosys,Equity,95000,0.35
+Reliance Industries,Equity,110000,0.45
+ICICI Bank,Equity,70000,0.30
+Axis Bank,Equity,65000,0.25
+Wipro,Equity,60000,0.20
+HUL,Equity,55000,0.15
+SBI Bluechip Fund,Equity,90000,0.40
+Nifty 50 ETF,Equity,100000,0.50
+Midcap Fund,Equity,85000,0.30
+Smallcap Fund,Equity,75000,0.25
+Corporate Bond Fund,Debt,60000,0.20
+Government Bond Fund,Debt,70000,0.30
+Short Term Debt Fund,Debt,50000,0.15
+PPF,Debt,65000,0.25
+Silver ETF,Commodity,40000,0.10
+Crude Oil ETF,Commodity,45000,0.15
+Real Estate Fund,Commodity,80000,0.20
+International Equity Fund,Equity,90000,0.30
+US Tech ETF,Equity,95000,0.35
+Cash Savings,Cash,40000,0.10
+Fixed Deposit,Cash,60000,0.15

@@ -1,0 +1,11 @@
+Conservative:
+- Focus on capital protection
+- Higher allocation to debt and low volatility assets
+
+Moderate:
+- Balanced risk and return
+- Mix of equity and debt
+
+Aggressive:
+- Higher equity exposure
+- Accepts higher volatility
